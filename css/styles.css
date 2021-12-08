@@ -743,12 +743,12 @@ background-color: #188CE8;
 }
 
 .check-text {
-  justify-content: center;
   font-size: 14px;
   color: var(--main-text-color);
   display: flex;
   position: relative;
   align-items: center;
+  justify-content: center;
 }
 .check-item {
   width: 16px;
